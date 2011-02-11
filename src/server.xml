@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data UserId="43322" Login="1">
+  <Servers>
+    <Server>http://s1.renren.qjsg.the9.com/</Server>
+    <Server>http://s4.renren.qjsg.the9.com/</Server>
+    <Server>http://s2.renren.qjsg.the9.com/</Server>
+    <Server>http://s3.renren.qjsg.the9.com/</Server>
+  </Servers>
+  <Action Result="1" Type="Common" />
+</Data>

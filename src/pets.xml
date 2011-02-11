@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data UserId="43322" Login="1" Visiting="43323" IsFriend="0">
+  <Pets>
+    <Pet Id="42971" PetId="22" WeaponId="22" Exp="575" ExpFull="575" ExpPercent="100" Equiped="0" Upgradable="0" Usable="0" SkillId="22">
+      <Tease Status="1" />
+    </Pet>
+    <Pet Id="69020" PetId="18" WeaponId="18" Exp="250" ExpFull="525" ExpPercent="47" Equiped="0" Upgradable="0" Usable="0" SkillId="18">
+      <Tease Status="1" />
+    </Pet>
+  </Pets>
+  <Anti>614551527</Anti>
+  <Action Result="1" Type="Common" />
+</Data>
